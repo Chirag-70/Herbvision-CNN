@@ -1,0 +1,14 @@
+wenv/
+venv/
+env/
+.env
+
+__pycache__/
+*.pyc
+
+Medicinal plant dataset/
+
+.vscode/
+.idea/
+
+*.log
